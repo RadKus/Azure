@@ -1,6 +1,0 @@
-public class Main {
-    public static void main(String[] args) {
-        // Kod programu zaczyna się tutaj
-        System.out.println("Witaj, świecie!"); // Przykładowe wydrukowanie tekstu na konsoli
-    }
-}
